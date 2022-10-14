@@ -27,18 +27,4 @@ This OP SAFT assumes, among other things, that:
 9. The Investor will be subject to certain KYC and AML obligations.
 
 
-## Contributors / Contributions Welcome
 
-If you are an attorney, software developer, or both, your comments would be welcome. You can propose changes through GitHub or can contact me through other channels.
-
-Many thanks to these contributors:
-
-* Gabe Shapiro (https://twitter.com/lex_node)
-
-* Greg Xethalis (https://twitter.com/xethalis)
-
-* Jacob Wittman (https://twitter.com/jakewittman)
-
-## About the Author
-
-Brandon Ferrick is an attorney licensed to practice law in the state of New York. Brandon currently serves as the general counsel for Injective Labs (https://injectivelabs.org). More about him may be found at https://t.co/xF0JQrMKsp?amp=1.
