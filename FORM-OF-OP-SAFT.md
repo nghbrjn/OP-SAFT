@@ -7,7 +7,7 @@
 ### Investor: {INVESTOR NAME}                 
 ### Company: {COMPANY NAME}
   
-*Undefined capitalized terms have the meanings attributed to them in the One-Page Simple Agreement for Future Tokens Glossary, available at https://github.com/BranDAOn/OP-SAFT/blob/main/OP-SAFT-Glossary.md. The terms and conditions of the One-Page Simple Agreement for Future Tokens Annex, available at https://github.com/BranDAOn/OP-SAFT/blob/main/OP-SAFT-ANNEX.md, are incorporated fully herein.*
+*Undefined capitalized terms have the meanings attributed to them in the One-Page Simple Agreement for Future Tokens Glossary, available at https://github.com/nghbrjn/OP-SAFT/blob/main-(non-U.S.-investor)/OP-SAFT-Glossary.md. The terms and conditions of the One-Page Simple Agreement for Future Tokens Annex, available at https://github.com/nghbrjn/OP-SAFT/blob/main-(non-U.S.-investor)/OP-SAFT-ANNEX.md, are incorporated fully herein.*
 
 ## 1. Events
   
